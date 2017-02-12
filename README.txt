@@ -18,10 +18,10 @@ For more information about Twenty Seventeen please go to https://codex.wordpress
 
 1. Download the zip file from https://github.com/ruthmaude/twentyseventeen-child.
 2. In your admin panel, go to Appearance -> Themes -> Add New -> Upload Theme -> Choose File.
-2. Browse your computer for the twentyseventeen-child.zip file downloaded in step 1 above.
-3. click Open -> Install Now -> Activate.
-4. Go to https://codex.wordpress.org/Twenty_Seventeen for a guide on how to customize this theme.
-5. Navigate to Appearance > Customize in your admin panel and customize to taste.
+3. Browse your computer for the twentyseventeen-child.zip file downloaded in step 1 above.
+4. click Open -> Install Now -> Activate.
+5. Go to https://codex.wordpress.org/Twenty_Seventeen for a guide on how to customize this theme.
+6. Navigate to Appearance > Customize in your admin panel and customize to taste.
 
 == Copyright ==
 
